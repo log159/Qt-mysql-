@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/biyan.png</file>
+        <file>res/logo.png</file>
+        <file>res/quit.png</file>
+        <file>res/startBacktop.PNG</file>
+        <file>res/startIcon.png</file>
+        <file>res/yanjing.png</file>
+    </qresource>
+</RCC>
